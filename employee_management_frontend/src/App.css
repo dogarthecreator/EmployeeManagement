@@ -1,0 +1,56 @@
+
+body {
+  background: linear-gradient(to right, #EFEFEF, #A9A9A9);
+}
+
+.app-title {
+  font-size: 55px;
+  color: #333; 
+  font-weight: bold;
+  text-transform: uppercase;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+  margin-bottom: 20px;
+  letter-spacing: 2px;
+  text-align: center;
+}
+
+.search-input {
+  font-size: 18px;
+  padding: 10px;
+  border: 2px solid #ddd; 
+  border-radius: 5px;
+}
+
+
+.btn-primary {
+  background-color: gray; 
+  border: none;
+  font-size: 18px;
+  color: black;
+}
+
+
+.btn-secondary,
+.btn-danger,
+.btn-info {
+  background-color: #333;
+  border: none;
+  font-size: 16px;
+  margin-left: 10px;
+  color: white;
+}
+
+
+.employee-profile {
+  font-size: 20px;
+  color: #333;
+}
+
+
+.employee-image {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%; 
+  margin: 20px auto;
+  display: block;
+}
